@@ -18,6 +18,8 @@ To build the Ruby code into a gem:
 
 ```shell
 gem build swagger_client.gemspec
+gem build swagger_client.gemspec
+gem push mautic_swagger_client-1.0.x.gem
 ```
 
 Then either install the gem locally:

@@ -129,7 +129,7 @@ module SwaggerClient
 
     def initialize
       @scheme = 'https'
-      @host = 'https://atoc.detie.cn'
+      @host = 'atoc.detie.cn'
       @base_path = '/index_dev.php'
       @api_key = {}
       @api_key_prefix = {}
