@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Swagger-Codegen"]
   s.email       = ["api@g2rail.com"]
-  s.homepage    = "https://github.com/swagger-api/swagger-codegen"
+  s.homepage    = "https://github.com/G2Rail/mautic-swagger-client"
   s.summary     = "Mautic API docs Ruby Gem"
   s.description = "Auto-generated Swagger documentation."
   s.license     = "Unlicense"
